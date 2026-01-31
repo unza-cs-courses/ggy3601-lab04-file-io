@@ -1,0 +1,19 @@
+{
+  "student_id": "finaltest_lab4",
+  "variant_seed": 2242277724439303905,
+  "group_id": 5,
+  "parameters": {
+    "num_records": 44,
+    "locations": [
+      "Site-D",
+      "Site-B",
+      "Site-C",
+      "Site-A"
+    ],
+    "depth_range": {
+      "min": 96,
+      "max": 401
+    },
+    "include_errors": 2
+  }
+}
